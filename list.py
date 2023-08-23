@@ -10,3 +10,11 @@ print(list1[0])
 print(list2[1])
 print(list3[2])
 print(type(list1))
+if 3 in list1:
+    print("yes")
+else:
+        print("no")
+if "par" in "parveen":
+    print("yes")
+else:
+        print("no")
